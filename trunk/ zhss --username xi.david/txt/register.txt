@@ -1,0 +1,25 @@
+Subject: Registration Information
+From: <!--$From-->
+To: <!--$To-->
+Cc:
+Bcc:
+Format: TEXT
+
+Dear Sir/Madam,
+
+Thank you for registering with us. Your registration details with us is as follow: 
+
+
+user: <!--user-->
+
+password: <!--password-->
+
+level: <!--level-->
+
+
+
+
+Please feel free to contact us in case of further queries.
+
+Best Regards,
+Support
